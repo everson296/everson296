@@ -1,4 +1,4 @@
-# Olá 👋🏾
+# Olá 👋
 
 Meu nome é Everson Silva.
 
